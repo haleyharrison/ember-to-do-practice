@@ -1,4 +1,4 @@
-# To-do
+# To-do App
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
@@ -13,12 +13,17 @@ You will need the following things properly installed on your computer.
 * [Ember CLI](http://www.ember-cli.com/)
 * [PhantomJS](http://phantomjs.org/)
 
+You will need to create a free account at Firebase.io.
+
 ## Installation
 
 * `git clone <repository-url>` this repository
 * change into the new directory
 * `npm install`
 * `bower install`
+* `ember install emberfire`
+* Change your Firebase link in config/environment.js
+* `firebase: 'https://YOUR-FIREBASE-URL-HERE.firebaseio.com/'`
 
 ## Running / Development
 
@@ -50,4 +55,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
