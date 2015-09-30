@@ -12,7 +12,7 @@ You will need the following things properly installed on your computer.
 * [Ember CLI](http://www.ember-cli.com/)
 * [PhantomJS](http://phantomjs.org/)
 
-You will need to create a free account at [Firebase.io].(http://firebase.io/)
+You will need to create a free account at [Firebase.io](http://firebase.io/).
 
 ## Installation
 
